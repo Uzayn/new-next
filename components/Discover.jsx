@@ -141,11 +141,11 @@ function Discover() {
                         initial={{ x: '-100%', opacity: 0 }}
                         whileInView={horizontal}
                         className={`flex-1 flex justify-center items-center md:ml-10 ml-0 md:mt-0 mt-10 order-1 md:order-2`}>
-                        <Image
+                        {/* <Image
                             src={phoneRight}
                             alt=""
                             className="w-2/3 sm:w-2/3 md:w-auto"
-                        />
+                        /> */}
                     </motion.div>
                 </div>
             </section>
@@ -168,11 +168,11 @@ function Discover() {
                         initial={{ x: '-100%', opacity: 0 }}
                         whileInView={horizontal}
                         className={`flex-1 flex justify-center items-center md:ml-10 ml-0 md:mt-0 mt-10`}>
-                        <Image
+                        {/* <Image
                             src={phoneLeft}
                             alt=""
                             className="w-2/3 sm:w-2/3 md:w-auto"
-                        />
+                        /> */}
                     </motion.div>
                     <motion.div
                         initial={{ x: '100%', opacity: 0 }}
