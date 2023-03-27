@@ -26,7 +26,6 @@ export const Features = [{
         content: "Simple, and easy-to-follow training guide of best practices from pre-planting to post-harvest in the palm of your hand.",
         img: vector1,
         hoverImg: vector11,
-        bgImg: discoverImg1
     },
     {
         id: "features.2",
@@ -35,7 +34,6 @@ export const Features = [{
         content: "Schedule each farm task and we will ensure you stay on track with reminders. Get action recommendations for scheduled tasks. The days of farming with uncertainty are over.",
         img: vector2,
         hoverImg: vector22,
-        bgImg: discoverImg2
     },
     {
         id: "features.3",
@@ -44,7 +42,6 @@ export const Features = [{
         content: "Run revenue projections and cost estimates based on your land size and other critical factors to make production targets for each season. Don't just wing it. Achieve more from knowing your numbers.",
         img: vector3,
         hoverImg: vector33,
-        bgImg: discoverImg3
     }
 ]
 
