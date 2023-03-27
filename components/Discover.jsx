@@ -7,7 +7,9 @@ import FeaturesCard from "./FeaturesCard";
 import SimpleSlider from "./slider";
 import Waitlist from "./Waitlist";
 
-import { phoneRight, phoneLeft, RectangleLeft } from "@/assets";
+import { phoneRight } from "@/assets";
+import { phoneLeft } from "@/assets";
+import { RectangleLeft } from "@/assets";
 
 import { Features } from "@/constants";
 
