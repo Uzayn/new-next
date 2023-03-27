@@ -26,9 +26,6 @@ import twitter from "./twitter.png"
 import linkedIn from "./linkedIn.png"
 import copyright from "./copyright.png"
 import hline from "./hline.png"
-import discoverImg1 from "./discoverImg1.jpg"
-import discoverImg2 from "./discoverImg2.jpg"
-import discoverImg3 from "./discoverImg3.jpg"
 import LaunchImg from "./LaunchImg.png"
 import Envelope from "./Envelope.png"
 import verified from "./verified.png"
@@ -65,9 +62,6 @@ export {
     linkedIn,
     copyright,
     hline,
-    discoverImg1,
-    discoverImg2,
-    discoverImg3,
     LaunchImg,
     Envelope,
     verified,
