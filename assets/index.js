@@ -36,7 +36,6 @@ import x from "./x.png"
 import charLine from "./charLine.png"
 import location from "./location.png"
 import support from "./support.png"
-import blogexample from './blogexample.jpg'
 import arrowback from './arrowback.png'
 
 
